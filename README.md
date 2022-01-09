@@ -2,7 +2,9 @@
 
 ### Olá! Me chamo Johnatan Kayevo.👋
 
-📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/johnatan-kayevo-b744671a4/) ou pelo e-mail: sr.johnatan@outlook.com.
+Eu insiro aqui códigos de projetos que gosto de desenvolver. Realmente espero que os programas te ajudem a programar melhor se você for um desenvolvedor, ou a analisar parte do meu trabalho, se for um recrutador. 
+
+📫 Se tiver dúvidas tu pode entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/johnatan-kayevo-b744671a4/) ou mesmo pelo e-mail: sr.johnatan@outlook.com.
 </br>
 
 <a href="https://www.linkedin.com/in/johnatan-kayevo-b744671a4/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"                                                                        
