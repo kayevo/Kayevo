@@ -1,7 +1,12 @@
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUsZUIIYoDnTMRJbl2S3MsWc_Clb_eKrHjvsP0oHoWBgZ1PvZC5W3HcC90hlW1IjczF9RT0c7wkJdQFldRzzpBeEq79grtg2VX9VdvumwUTgvEh2IBO-uoe96JcbpsKLJiTc8RRma08Bl2V9D6dF1OGOQ=w749-h649-no?authuser=0" min-width="400px" max-width="400px" width="400px" align="right" >
+
 ### Olá! Me chamo Johnatan Kayevo.👋
 
-### Sejam todos bem vindos ao meu Perfil Github
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/johnatan-kayevo-b744671a4/) ou pelo e-mail: sr.johnatan@outlook.com.
+</br>
+
+<a href="https://www.linkedin.com/in/johnatan-kayevo-b744671a4/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"                                                                        
+ /></a>
 
 <!--
 **Kayevo/Kayevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
