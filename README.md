@@ -1,5 +1,4 @@
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUsZUIIYoDnTMRJbl2S3MsWc_Clb_eKrHjvsP0oHoWBgZ1PvZC5W3HcC90hlW1IjczF9RT0c7wkJdQFldRzzpBeEq79grtg2VX9VdvumwUTgvEh2IBO-uoe96JcbpsKLJiTc8RRma08Bl2V9D6dF1OGOQ=w749-h649-no?authuser=0" min-width="400px" max-width="400px" width="400px" align="right" >
-
 ### Olá! Me chamo Johnatan Kayevo.👋
 
 ### Sejam todos bem vindos ao meu Perfil Github
