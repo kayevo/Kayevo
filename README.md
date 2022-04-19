@@ -1,6 +1,6 @@
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUsZUIIYoDnTMRJbl2S3MsWc_Clb_eKrHjvsP0oHoWBgZ1PvZC5W3HcC90hlW1IjczF9RT0c7wkJdQFldRzzpBeEq79grtg2VX9VdvumwUTgvEh2IBO-uoe96JcbpsKLJiTc8RRma08Bl2V9D6dF1OGOQ=w749-h649-no?authuser=0" min-width="400px" max-width="400px" width="400px" align="right" >
 
-### Oi muito bom te ver por aqui no GitHub! Meu nome é Johnatan Kayevo e espero que tu se sinta bem por aqui.👋
+### Oi, muito bom te ver por aqui no GitHub! Meu nome é Johnatan Kayevo e espero que tu curta meus códigos. 👋
 </br>
 
 Eu insiro dentro do GitHub códigos de projetos que gosto de desenvolver. Realmente desejo que os programas que eu criei te ajudem a programar melhor, se você for um desenvolvedor, ou a analisar parte do meu trabalho, se for um recrutador. 
