@@ -5,7 +5,7 @@
 
 Eu insiro dentro do GitHub códigos de projetos que gosto de desenvolver. Realmente desejo que os programas que eu criei te ajudem a programar melhor, se você for um desenvolvedor, ou a analisar parte do meu trabalho, se for um recrutador. 
 
-Caso você tenha dúvidas tu podes entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/johnatan-kayevo-b744671a4/) ou mesmo pelo e-mail: 📫  sr.johnatan@outlook.com.
+Caso você tenha dúvidas tu podes entrar em contato comigo pelo meu [Linkedin](https://www.linkedin.com/in/johnatan-kayevo-b744671a4/).
 </br>
 
 <a href="https://www.linkedin.com/in/johnatan-kayevo-b744671a4/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"                                                                        
