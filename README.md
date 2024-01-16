@@ -5,7 +5,7 @@
 
 I upload code from projects I enjoy developing onto GitHub. I sincerely hope that the software I have created can assist you in coding more effectively if you are a developer or enable you to analyze some of my work if you are a recruiter.
 
-If you have any questions, you can click here and contact me through my [Linkedin](https://www.linkedin.com/in/kayevo/).
+Now, to talk to me, you can click here and contact me through my [Linkedin](https://www.linkedin.com/in/kayevo/).
 </br>
 
 <a href="https://www.linkedin.com/in/johnatan-kayevo-b744671a4/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"                                                                        
