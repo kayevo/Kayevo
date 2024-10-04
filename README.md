@@ -1,9 +1,13 @@
 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUsZUIIYoDnTMRJbl2S3MsWc_Clb_eKrHjvsP0oHoWBgZ1PvZC5W3HcC90hlW1IjczF9RT0c7wkJdQFldRzzpBeEq79grtg2VX9VdvumwUTgvEh2IBO-uoe96JcbpsKLJiTc8RRma08Bl2V9D6dF1OGOQ=w749-h649-no?authuser=0" min-width="400px" max-width="400px" width="400px" align="right" >
 
-### Hi, great to see you here on GitHub! My name is Johnatan Kayevo and I hope you like my projects. 👋
+### Johnatan Kayevo projects.
 </br>
 
-I upload code from projects I enjoy developing onto GitHub. I sincerely hope that the software I have created can assist you in coding more effectively if you are a developer or enable you to analyze some of my work if you are a recruiter.
+Hey there. I'm Jonathan Kayevo.
+I have been a software developer since 2020. I have a solid international career, working for the biggest companies in the world like CI&T and BMW.
+My expertise is in creating native Android mobile software with Kotlin.
+Also, creating custom SDKs for Android OS with Kotlin and C++. 
+Nice to meet you, and have a great day.
 
 Now, to talk to me, you can click here and contact me through my [Linkedin](https://www.linkedin.com/in/kayevo/).
 </br>
