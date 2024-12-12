@@ -3,11 +3,7 @@
 ### Johnatan Kayevo Projects.
 </br>
 
-Hey there. I'm Jonathan Kayevo.
-I have been a software developer since 2020. I have a solid international career, working for the biggest companies in the world like CI&T and BMW.
-My expertise is in creating native Android mobile software with Kotlin.
-Also, creating custom SDKs for Android OS with Kotlin and C++. 
-Nice to meet you, and have a great day.
+Android engineer with 4+ years of experience. Solid international career, working for the biggest companies in the world like CI&T and BMW. Expert in creating native Android mobile software with Kotlin. Also, creating custom SDKs for Android OS with Kotlin and C++.  
 
 Now, to talk to me, you can click here and contact me through my [Linkedin](https://www.linkedin.com/in/kayevo/).
 </br>
